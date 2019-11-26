@@ -1,0 +1,2 @@
+# carteleraMPOO
+Primer Proyecto: "Cartelera"
